@@ -37,7 +37,7 @@ Shoutout to the **GreatStack 🎓** channel for their amazing tutorials that gui
 ## 📥 Installation and Setup
 ### Clone the repository
 ```bash
-git clone https://github.com/pradyumn8/Imagify.git
+git clone https://github.com/mahanaatma1/Imagify
 ```
 ### Navigate into the project directory
  ```bash
