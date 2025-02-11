@@ -8,7 +8,7 @@
 - Sign Up/Login Flow for personalized experience.
 - Fully Responsive UI built with React and Tailwind CSS.
 
-🔗 **Live Demo**: [Imagify](https://imagify-1.onrender.com/)
+🔗 **Live Demo**: [Imagify](https://imagify-1-chmv.onrender.com/)
 
 ## 🛠️ Tech Stack:
 **Frontend**:
